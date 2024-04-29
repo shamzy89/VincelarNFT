@@ -19,7 +19,7 @@ Ils peuvent fixer leur propre prix et définir les conditions de la vente.
 Cette solution facilite la gestion des annonces, le suivi des ventes et le transfert des NFT aux acheteurs.
 Fonctionnalités sociales:
 Les utilisateurs peuvent créer un profil pour présenter leurs NFT et suivre d'autres créateurs.
-L'application encourage l'interaction et la découverte de nouveaux talents artistiques.
+VincelarNft encourage l'interaction et la découverte de nouveaux talents artistiques.
 Accessibilité et éducation:
 VincelarNFT propose des tutoriels et des ressources pour aider les utilisateurs à comprendre les NFT et leur fonctionnement.
 Elle met l'accent sur la simplicité d'utilisation et rend le processus de création et de vente de NFT accessible à tous.
